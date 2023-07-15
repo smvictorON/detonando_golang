@@ -1,3 +1,6 @@
 go 1.18
 
-use "./S2-blocopad"
+use (
+	./S2-blocopad
+	./S3-ssl
+)
