@@ -3,4 +3,7 @@ go 1.18
 use (
 	./S2-blocopad
 	./S3-ssl
+	./S4-graphql
+	./S4-grpc
+	./S4-websocket
 )

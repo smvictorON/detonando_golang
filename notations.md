@@ -24,3 +24,12 @@ criando a chave privada com openssl
 
 criando a chave publica com openssl
 `openssl rsa -in ./key -pubout -out ./key.pub`
+
+- GraphQL
+é uma linguagem de consulta de API de código aberto que permite que os clientes especifiquem exatamente os dados que desejam receber de um servidor
+
+- WebSocket
+é uma tecnologia de comunicação de canal bidirecional que mantém uma conexão aberta entre um cliente e um servidor. Isso permite que o cliente e o servidor troquem mensagens a qualquer momento, em vez de precisar esperar por um pedido HTTP do cliente.
+
+- GRPC
+é um framework de RPC de código aberto, rápido e eficiente desenvolvido pelo Google. Ele é construído em cima do protocolo HTTP/2 e usa o modelo de dados Protobuf para serializar mensagens.
