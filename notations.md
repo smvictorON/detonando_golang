@@ -26,10 +26,19 @@ criando a chave publica com openssl
 `openssl rsa -in ./key -pubout -out ./key.pub`
 
 - GraphQL
-é uma linguagem de consulta de API de código aberto que permite que os clientes especifiquem exatamente os dados que desejam receber de um servidor
+é uma linguagem de consulta de API de código aberto que permite que os clientes especifiquem exatamente os dados que desejam receber de um servidor.
 
 - WebSocket
 é uma tecnologia de comunicação de canal bidirecional que mantém uma conexão aberta entre um cliente e um servidor. Isso permite que o cliente e o servidor troquem mensagens a qualquer momento, em vez de precisar esperar por um pedido HTTP do cliente.
 
 - GRPC
 é um framework de RPC de código aberto, rápido e eficiente desenvolvido pelo Google. Ele é construído em cima do protocolo HTTP/2 e usa o modelo de dados Protobuf para serializar mensagens.
+
+- OpenAPI(swagger)
+é uma descrição de API declarativa que define como uma API se comunica com seus consumidores. Ele é usado para descrever APIs REST, que são APIs baseadas em HTTP que usam solicitações GET, POST, PUT e DELETE para interagir com recursos.
+
+- Postgres
+é um banco de dados objeto relacional (ORDBMS) de código aberto, gratuito e de alto desempenho.
+
+- Contexts
+um contexto é um valor que contém informações sobre o estado atual de uma operação. Ele pode ser usado para cancelar uma operação, definir o limite de tempo para uma operação ou rastrear o progresso de uma operação.

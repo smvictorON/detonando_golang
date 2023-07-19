@@ -6,4 +6,7 @@ use (
 	./S4-graphql
 	./S4-grpc
 	./S4-websocket
+	./S5-openAPI-swagger
+	./S5-orm
+	./S5-postgres
 )
